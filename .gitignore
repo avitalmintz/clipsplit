@@ -1,0 +1,18 @@
+# virtualenv (do not commit, per setup)
+venv/
+
+# generated synthetic test video + exports (regenerate with make_demo.py)
+synthetic_out/
+
+# runtime artifacts
+*_clips/
+clipsplit_out/
+*.pyc
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# browser-driver scratch
+.playwright-mcp/
+
+# assets/ is intentionally TRACKED (README images) - do not ignore it
