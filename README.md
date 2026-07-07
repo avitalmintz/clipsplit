@@ -1,4 +1,4 @@
-# ✂️ ClipSplit
+# ClipSplit
 
 **Point it at a screen recording. It finds where the content changes, splits the video into clips at those cuts, and names each clip from the text on screen. Review, rename, export. 100% on your machine.**
 
