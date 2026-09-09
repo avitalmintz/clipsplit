@@ -16,3 +16,7 @@ __pycache__/
 .playwright-mcp/
 
 # assets/ is intentionally TRACKED (README images) - do not ignore it
+
+# Local editor/agent config
+.claude/
+CLAUDE.md
